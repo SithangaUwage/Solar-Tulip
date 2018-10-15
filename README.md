@@ -29,7 +29,7 @@ Model
 
 Movement Diagram
 ![alt text](/Blueprints/Movement/FullMech.jpg)
-![alt text](/Blueprints/Movement/UpperMech.jpg)
+![alt text](/Blueprints/Movement/UpperMech_.jpg)
 ![alt text](/Blueprints/Movement/UpperMech_LHS.jpg)
 ![alt text](/Blueprints/Movement/UpperMech_MID.jpg)
 ![alt text](/Blueprints/Movement/UpperMech_RHS.jpg)
